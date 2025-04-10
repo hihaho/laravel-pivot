@@ -8,10 +8,10 @@ In Laravel events are not dispatched when BelongsToMany relation (pivot table) i
 
 ## Version Compatibility
 
-| Laravel Version | Package Tag | Supported | Development Branch
-|-----------------|-------------|-----------| -----------|
-| >= 5.5.0 | 3.* | yes | master
-| < 5.5.0 | - | no | -
+| Laravel Version | Package Tag | Supported | Development Branch |
+|-----------------|-------------|-----------|--------------------|
+| >= 5.5.0        | 3.*         | yes       | master             |
+| < 5.5.0         | -           | no        | -                  |
 
 * you still can use inactive branches for laravel 5.4.x or older
 
